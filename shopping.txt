@@ -1,0 +1,7 @@
+<html>
+<body>
+<img src="colorful strap bucket bag">
+<img src="leather handbag purse">
+<img src="versatile fashion crossbody bag>
+</body>
+</html>
